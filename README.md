@@ -1,4 +1,4 @@
 # Exam zip
 
 ## Contributions
-See the individual README files or `front page.pdf`
+See the individual README files or `Front page.pdf`
